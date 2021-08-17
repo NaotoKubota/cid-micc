@@ -26,5 +26,5 @@ docker build --rm -t naotokubota/cid-micc:1.0 .
 ## running
 
 ```sh
-docker run --rm -it kubotter123/cid-micc
+docker run --rm -it naotokubota/cid-micc
 ```
